@@ -12,4 +12,4 @@ A tool that grabs forecast data from the https://www.weatherapi.com/ API and sto
 ##### Berlin
 
 
-### "The forecast cover the next 3 days and be in hourly resolution"
+### "The forecast cover the next 3 days, hourly resolution"
